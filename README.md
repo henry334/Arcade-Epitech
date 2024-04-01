@@ -34,6 +34,8 @@ To use Arcade, follow these steps:
     Replace `[lib]` with the desired graphics library (e.g., `arcade_ncurses.so`).
 3. Upon starting, the program will display the available game and graphics libraries, along with scores and a field for users to enter their names.
 4. Use the following commands while running the program:
-   - `x`: Exit the program or the username box
    - `p`: Go back
-5. Use the `-h` or `--help` flag to display usage information
+   - `x`: Exit the program or the username box
+   - `g`: Change the game to the next one
+   - `i`: Change the graphical library to the next one
+6. Use the `-h` or `--help` flag to display usage information
