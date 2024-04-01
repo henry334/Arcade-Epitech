@@ -26,6 +26,7 @@ Arcade offers a selection of games libraries, including:
 
 To use Arcade, follow these steps:
 
+0. Install SDL2, SFML & Ncurses
 1. Compile the Arcade program and its dynamic libraries with `make`.
 2. Start the Arcade program by specifying the graphics library to use initially:
     ```bash
