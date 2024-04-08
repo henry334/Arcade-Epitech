@@ -40,3 +40,5 @@ To use Arcade, follow these steps:
    - `g`: Change the game to the next one
    - `i`: Change the graphical library to the next one
 6. Use the `-h` or `--help` flag to display usage information
+
+SolarFox made by [gredzy](https://github.com/gredzy)
